@@ -13,6 +13,8 @@ My name is Pavel, I'm a MS Dynamics Nav/Business Central Developer with experien
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=proninp&theme=tokyonight&show_icons=true">
 </p>
 
-<p href="[https://discord.gg/onlp](https://www.linkedin.com/in/proninp/)" align="center">
-    <img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black">
+<p align="center">
+  <a href="https://www.linkedin.com/in/proninp/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
 </p>
