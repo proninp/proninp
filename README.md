@@ -5,7 +5,7 @@ My name is Pavel, I'm a MS Dynamics Nav/Business Central Developer with experien
 <h2 align="center">Skills </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,visualstudio,vscode,postman,azure,postgres" />
+    <img src="https://skillicons.dev/icons?i=cs,visualstudio,vscode,java,idea,postman,azure,postgres" />
   </a>
 </p>
 
