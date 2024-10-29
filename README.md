@@ -1,6 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi there, My name is Pavel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 
-My name is Pavel, I'm a MS Dynamics Nav/Business Central Developer with experience in SQL development.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=MS+Dynamics+Nav;MS+Dynamics+Business+Central;T-SQL;Always+learning+new+things&center=true&width=500&height=50&color=5FD5F5"></a>
+</p>
 
 <h2 align="center">Skills </h2>
 <p align="center">
@@ -10,7 +12,7 @@ My name is Pavel, I'm a MS Dynamics Nav/Business Central Developer with experien
 </p>
 
 <p href="https://discord.gg/onlp" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=proninp&theme=tokyonight&show_icons=true">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=proninp&theme=react&show_icons=true">
 </p>
 
 <p align="center">
