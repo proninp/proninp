@@ -17,7 +17,7 @@
 
 <br/>
 
-<h2 align="center"> 🙋‍♀️ Let's Connect </h2>
+<h2 align="center"> 🤝 Let's Connect </h2>
 
 <p align="center">
 	<a href="mailto:stackcrawler@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/mail.png"/></a>
