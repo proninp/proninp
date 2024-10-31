@@ -15,8 +15,14 @@
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=proninp&theme=react&show_icons=true">
 </p>
 
+<br/>
+
+<h2 align="center"> 🙋‍♀️ Let's Connect </h2>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/proninp/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
+	<a href="mailto:stackcrawler@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/mail.png"/></a>
+	<a href="https://github.com/proninp" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/proninp" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/linkedin-circled.png"/></a>
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=proninp&label=Profile%20views&color=0e75b6&style=plastic" alt="pctrung" /> </p> 
