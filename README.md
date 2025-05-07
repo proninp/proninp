@@ -7,7 +7,7 @@
 <h2 align="center">Skills </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,visualstudio,vscode,java,idea,postman,azure,postgres" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,java,js,postgres,redis,kafka,rabbitmq,docker,azure,postman,git,rider,visualstudio,vscode,idea&perline=8" />
   </a>
 </p>
 
